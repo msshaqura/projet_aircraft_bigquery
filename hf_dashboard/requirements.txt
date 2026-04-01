@@ -1,6 +1,7 @@
-streamlit
+streamlit==1.25.0
 pandas
 plotly
 google-cloud-bigquery
 python-dotenv
 matplotlib
+pillow>=10.0.0
