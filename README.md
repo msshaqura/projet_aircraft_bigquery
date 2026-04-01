@@ -1,3 +1,15 @@
+# 🎯 Aircraft Analysis Dashboard using BigQury
+
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗-Live%20App-yellow)](https://huggingface.co/spaces/msshaqura/netflix_project)
+[![SQL](https://img.shields.io/badge/SQL-Query%20Language-informational)](https://en.wikipedia.org/wiki/SQL)
+[![BigQuery](https://img.shields.io/badge/BigQuery-GCP-orange?logo=googlecloud&logoColor=white)](https://cloud.google.com/bigquery)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://streamlit.io)
+# ✈️ Aircraft Data Analysis Project
+
+🚀 Live Demo 👉 Try the app here:
+[https://huggingface.co/spaces/msshaqura/aircraft_bigquery_project]
+# ✈️ Aircraft Data Analysis - BigQuery Version
+
 # ✈️ Aircraft Data Analysis Project
 
 ## 📝 Description
