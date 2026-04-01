@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+venv_aircraft/
+env/
+
+# Clés privées
+*.json
+!requirements.json
+
+# Variables d'environnement
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
